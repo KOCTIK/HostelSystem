@@ -1,0 +1,6 @@
+{
+  "leaf": false,
+  "children": [
+    { "text": "Reservation", "iconCls": "x-fa fa-calendar", "xtype": "reservationview","leaf": true }
+  ]
+}
